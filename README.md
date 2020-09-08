@@ -308,3 +308,74 @@ or equal to those of the children and the lowest key is in the root node
 * [Cracking The Coding Interview - Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?s=books&ie=UTF8)
 * [Cracking The PM Interview - Gayle Laakmann McDowell & Jackie Bavaro](https://www.amazon.com/Cracking-PM-Interview-Product-Technology-ebook/dp/B00ISYMUR6/ref=sr_1_1?s=books&ie=UTF8)
 * [Introduction to Algorithms -  Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1490295989&sr=8-1&keywords=Introduction+to+Algorithms)
+
+
+- [ ] **How computers process a program:**
+    - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
+    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
+    - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
+    - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
+
+- [ ] [Cheat sheet](http://bigocheatsheet.com/)
+
+- ### Object-Oriented Programming
+    - [ ] [Optional: UML 2.0 Series (video)](https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc)
+    - [ ] SOLID OOP Principles: [SOLID Principles (video)](https://www.youtube.com/playlist?list=PL4CE9F710017EA77A)
+    
+  - ### Caches
+    - [ ] LRU cache:
+        - [ ] [The Magic of LRU Cache (100 Days of Google Dev) (video)](https://www.youtube.com/watch?v=R5ON3iwx78M)
+        - [ ] [Implementing LRU (video)](https://www.youtube.com/watch?v=bq6N7Ym81iI)
+        - [ ] [LeetCode - 146 LRU Cache (C++) (video)](https://www.youtube.com/watch?v=8-FZRAjR7qU)
+    - [ ] CPU cache:
+        - [ ] [MIT 6.004 L15: The Memory Hierarchy (video)](https://www.youtube.com/watch?v=vjYF_fAZI5E&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-&index=24)
+        - [ ] [MIT 6.004 L16: Cache Issues (video)](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
+        
+
+- [ ] Series of 2-3 minutes short subject videos (23 videos)
+    - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (18 videos):
+    - [Videos](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
+- [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
+- [ ] [Sedgewick Videos - Algorithms II](https://www.coursera.org/learn/algorithms-part2)
+
+- [Mathematics for Topcoders](https://www.topcoder.com/community/competitive-programming/tutorials/mathematics-for-topcoders/)
+- [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+- [MIT Interview Materials](https://web.archive.org/web/20160906124824/http://courses.csail.mit.edu/iap/interview/materials.php)
+- [Exercises for getting better at a given language](http://exercism.io/languages)
+
+- [Interactive Coding Interview Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
+
+## Be thinking of for when the interview comes
+
+Think of about 20 interview questions you'll get, along with the lines of the items below. Have 2-3 answers for each.
+Have a story, not just data, about something you accomplished.
+
+- Why do you want this job?
+- What's a tough problem you've solved?
+- Biggest challenges faced?
+- Best/worst designs seen?
+- Ideas for improving an existing product.
+- How do you work best, as an individual and as part of a team?
+- Which of your skills or experiences would be assets in the role and why?
+- What did you most enjoy at [job x / project y]?
+- What was the biggest challenge you faced at [job x / project y]?
+- What was the hardest bug you faced at [job x / project y]?
+- What did you learn at [job x / project y]?
+- What would you have done better at [job x / project y]?
+
+## Have questions for the interviewer
+
+    Some of mine (I already may know answer to but want their opinion or team perspective):
+
+- How large is your team?
+- What does your dev cycle look like? Do you do waterfall/sprints/agile?
+- Are rushes to deadlines common? Or is there flexibility?
+- How are decisions made in your team?
+- How many meetings do you have per week?
+- Do you feel your work environment helps you concentrate?
+- What are you working on?
+- What do you like about it?
+- What is the work life like?
+- How is work/life balance?
