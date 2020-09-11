@@ -319,7 +319,7 @@ or equal to those of the children and the lowest key is in the root node
 
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
     
-- ### Caches
+## Caches
  - [ ] LRU cache:
      - [ ] [The Magic of LRU Cache (100 Days of Google Dev) (video)](https://www.youtube.com/watch?v=R5ON3iwx78M)
      - [ ] [Implementing LRU (video)](https://www.youtube.com/watch?v=bq6N7Ym81iI)
