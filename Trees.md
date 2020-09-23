@@ -68,10 +68,4 @@ for above problems refer to https://www.geeksforgeeks.org/must-do-coding-questio
 | Find a build order given a list of projects and dependencies. |  [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/graph_build_order/build_order_challenge.ipynb) │ [Solution](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/graph_build_order/build_order_solution.ipynb) |
 | Find the shortest path in a weighted graph. |  [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/graph_shortest_path/graph_shortest_path_challenge.ipynb) │ [Solution](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/graph_shortest_path/graph_shortest_path_solution.ipynb) |
 | Find the shortest path in an unweighted graph. |  [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/graph_shortest_path_unweighted/shortest_path_challenge.ipynb) │ [Solution](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/graph_shortest_path_unweighted/shortest_path_solution.ipynb) |
-| Add a challenge | [Contribute](https://github.com/donnemartin/interactive-coding-challenges/blob/master/CONTRIBUTING.md) │ [Contribute](https://github.com/donnemartin/interactive-coding-challenges/blob/master/CONTRIBUTING.md) |
-
-<br/>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif">
-</p>
-<br/>
+| Add a challenge | [Contribute](https://github.com/donnemartin/interactive-coding-challenges/blob/master/CONTRIBUTING.md) │ [Contribute](https://github.com/donnemartin/interactive-coding-challenges/blob/master/CONTRIBUTING.md) 
