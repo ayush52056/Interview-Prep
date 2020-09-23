@@ -17,9 +17,6 @@ Serialize and Deserialize a Binary Tree
 
 
 ### Graphs and Trees
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/donnemartin/interactive-coding-challenges/master)
-
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | Implement depth-first search (pre-, in-, post-order) on a tree |  [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/tree_dfs/dfs_challenge.ipynb) │ [Solution](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/tree_dfs/dfs_solution.ipynb) |
