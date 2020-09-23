@@ -318,7 +318,8 @@ or equal to those of the children and the lowest key is in the root node
     - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
-    
+- [ ] [What is a plain English explanation of “Big O” notation?](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation)
+
 ## Caches
  - [ ] LRU cache:
      - [ ] [The Magic of LRU Cache (100 Days of Google Dev) (video)](https://www.youtube.com/watch?v=R5ON3iwx78M)
