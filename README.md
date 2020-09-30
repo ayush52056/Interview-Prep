@@ -1,6 +1,6 @@
 # Interview-Prep
 
-## Data Structures
+## Data Structures and Algorithms
 ### Linked List
  * A *Linked List* is a linear collection of data elements, called nodes, each
    pointing to the next node by means of a pointer. It is a data structure
@@ -58,7 +58,7 @@
 <img src="/images/BST.png?raw=true" alt="Binary Search Tree" width="400" height="500">
 
 ### Trie
-* A trie, sometimes called a radix or prefix tree, is a kind of search tree that is used to store a dynamic set or associative
+* A trie, sometimes called a radix or prefix tree or digital tree, is a kind of search tree that is used to store a dynamic set or associative
   array where the keys are usually Strings. No node in the tree stores the key associated with that node; instead, its position 
   in the tree defines the key with which it is associated. All the descendants of a node have a common prefix of the String associated 
   with that node, and the root is associated with the empty String.
@@ -350,7 +350,7 @@ Think of about 20 interview questions you'll get, along with the lines of the it
 Have a story, not just data, about something you accomplished.
 
 - Why do you want this job?
-- What's a tough problem you've solved?
+- What's a tough problem or real world problem you've solved?
 - Biggest challenges faced?
 - Best/worst designs seen?
 - Ideas for improving an existing product.
